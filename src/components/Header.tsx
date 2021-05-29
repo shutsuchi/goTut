@@ -20,7 +20,7 @@ const Header: FC = (props) => {
 
   return (
     <header className={classes.pageHeader}>
-      <h1>Todo App</h1>
+      <h1>goTut</h1>
     </header>
   )
 }
